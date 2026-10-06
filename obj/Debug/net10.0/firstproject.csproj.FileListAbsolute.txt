@@ -1,0 +1,14 @@
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\bin\Debug\net10.0\firstproject.exe
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\bin\Debug\net10.0\firstproject.deps.json
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\bin\Debug\net10.0\firstproject.runtimeconfig.json
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\bin\Debug\net10.0\firstproject.dll
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\bin\Debug\net10.0\firstproject.pdb
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.AssemblyInfoInputs.cache
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.AssemblyInfo.cs
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.dll
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\refint\firstproject.dll
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.pdb
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\firstproject.genruntimeconfig.cache
+C:\Users\KajalKunwar\Desktop\ISMT_CSHARP\firstproject\obj\Debug\net10.0\ref\firstproject.dll
